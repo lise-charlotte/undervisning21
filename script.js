@@ -74,3 +74,19 @@ console.log("------------------------------------------");
 
 // index++ er index = index + index
 // index-- er index = index - index
+
+
+
+
+
+// Bonus materiale fra spørretime
+
+
+// If/Else statement (conditional statement, checking if something is true or false)
+const number = 7;
+
+if (number === 10) {
+    console.log("Nummeret er akkurat 10!")
+} else {
+    console.log("Nummeret er ikke 10")
+};
